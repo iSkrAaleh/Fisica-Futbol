@@ -1,0 +1,57 @@
+# Esta es la configuración estándar oficial de GitHub para Unity
+
+# Carpetas y archivos generados por Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Archivos de memoria caché
+/[Mm]emoryCaptures/
+
+# Archivos de Asset Store
+Assets/AssetStoreTools*
+
+# Archivos de Visual Studio / MonoDevelop
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archivos ocultos del sistema operativo (Windows/Mac)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Autogenerados por crash de Unity
+sysinfo.txt
+
+# Compilaciones
+*.apk
+*.aab
+*.app
+*.ipa
+*.exe
+
+# Carpetas de builds personalizadas (si usas estas nomenclaturas)
+/Builds/
+/build/
